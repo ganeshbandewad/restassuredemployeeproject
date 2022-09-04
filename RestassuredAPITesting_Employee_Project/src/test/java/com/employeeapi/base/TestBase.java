@@ -18,6 +18,7 @@ public class TestBase {
 	
 	public Logger logger;
 	
+	
 	@BeforeClass
 	public void setup(){
 		
